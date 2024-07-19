@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working on Implementation of SHA-256 Hashing algorithm using C++
 
+
+<!--
 - 🌱 I’m currently learning JAVA
  
-<!--
 **LORDSINE/LORDSINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
