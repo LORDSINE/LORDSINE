@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Recommendation System** 📚
+🌱 I’m currently learning **Classification System** 📚
 
 ### Contact me
  </div>
