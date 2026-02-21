@@ -60,3 +60,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LORDSINE&theme=tokyonight&hide_border=false)
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=LORDSINE&color=A4CEE5)
