@@ -40,6 +40,7 @@
 
 <hr/>
 
+<!--
 <div align="center">
   <h2>👨‍💻 My Contributions 🙏</h2>
   <br>
@@ -62,3 +63,5 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=LORDSINE&color=A4CEE5)
+
+-->
